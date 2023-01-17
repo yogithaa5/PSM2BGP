@@ -3,3 +3,4 @@ scikit-learn
 boruta
 numpy
 pandas
+streamlit_option_menu
