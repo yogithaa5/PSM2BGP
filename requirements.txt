@@ -3,4 +3,3 @@ scikit-learn
 boruta
 numpy
 pandas
-option_menu
